@@ -74,6 +74,7 @@ philosophy: "Bridging enterprise systems knowledge with modern cloud architectur
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ERP Systems](https://img.shields.io/badge/ERP_Systems-FF6B35?style=for-the-badge&logo=sap&logoColor=white)
 ![POS Systems](https://img.shields.io/badge/POS_Systems-6C757D?style=for-the-badge&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
 </div>
 
