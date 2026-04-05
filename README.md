@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=W.T%20Nimesh%20De%20Alwis&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Engineer+in+Progress+%E2%98%81%EF%B8%8F;Database+Administrator+%F0%9F%97%84%EF%B8%8F;Project+Coordinator+%7C+ERP+Specialist+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Engineer+in+Progress+%E2%98%81%EF%B8%8F;Database+Administrator+%F0%9F%97%84%EF%B8%8F;Project+Coordinator+%7C+ERP+Specialist+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=NimeshDeAlwis&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Nimesh-DeAlwis&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![Gmail](https://img.shields.io/badge/Gmail-tharindualwis2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindualwis2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tharindu-nimesh-de-alwis)
 
@@ -84,14 +84,14 @@ philosophy: "Bridging enterprise systems knowledge with modern cloud architectur
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NimeshDeAlwis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshDeAlwis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nimesh-DeAlwis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-DeAlwis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NimeshDeAlwis&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nimesh-DeAlwis&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -163,7 +163,7 @@ graph LR
 
 ## 📈 Activity Graph
 
-[![Nimesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NimeshDeAlwis&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nimesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-DeAlwis&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true)](https://github.com/Nimesh-DeAlwis)
 
 ---
 
