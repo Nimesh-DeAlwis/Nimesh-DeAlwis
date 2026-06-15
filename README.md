@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=W.T%20Nimesh%20De%20Alwis&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20DevOps%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Engineer+in+Progress+%E2%98%81%EF%B8%8F;Database+Administrator+%F0%9F%97%84%EF%B8%8F;Project+Coordinator+%7C+ERP+Specialist+%F0%9F%8E%AF)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=Project+Management+%7C+ERP+Specialist+%F0%9F%8E%AF;Full+Stack+Developer+%F0%9F%9A%80;Cloud+%26+DevOps+Engineer+in+Progress+%E2%98%81%EF%B8%8F;Database+Administrator+%F0%9F%97%84%EF%B8%8F;Technical+Project+Coordinator+%F0%9F%93%8A)](https://git.io/typing-svg)
 <br/>
 
 <!-- Profile Views & Social Badges -->
@@ -112,37 +111,6 @@ philosophy: "Bridging enterprise systems knowledge with modern cloud architectur
 | .NET Development for Beginners | LinkedIn Learning | Oct 2025 |
 
 </div>
-
----
-
-## 🎯 Goals & Learning Roadmap
-
-```mermaid
-graph LR
-    A[🏢 Enterprise Systems Expert] --> B[☁️ Cloud Architecture]
-    A --> C[🗄️ Database Administration]
-    A --> D[📋 Project Coordination]
-    B --> E[🎯 Cloud DevOps Engineer]
-    C --> E
-    D --> E
-    E --> F[🚀 ERP Specialist + Cloud Native]
-
-    style A fill:#1a1a2e,color:#00d9ff,stroke:#00d9ff
-    style E fill:#16213e,color:#FF6B35,stroke:#FF6B35
-    style F fill:#0f3460,color:#ffffff,stroke:#00d9ff
-```
-
-- [x] ✅ React & Frontend Development
-- [x] ✅ Node.js & Backend Development
-- [x] ✅ SQL Server & Database Management
-- [x] ✅ Linux Fundamentals
-- [x] ✅ C# & .NET Development
-- [ ] 🔄 AWS Cloud Practitioner Certification
-- [ ] 🔄 Azure Fundamentals (AZ-900)
-- [ ] 🔄 Docker & Kubernetes
-- [ ] 🔄 Terraform (Infrastructure as Code)
-- [ ] 🔄 CI/CD Pipelines (GitHub Actions)
-
 ---
 
 ## 💡 Domain Expertise
