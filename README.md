@@ -26,9 +26,6 @@ location: Sri Lanka 🇱🇰
 current_role:
   Technical Support Executive
 
-career_goal:
-  Technical Project Manager
-
 areas_of_interest:
   - Project Management
   - Cloud Computing
@@ -44,8 +41,6 @@ core_expertise:
   - Client Coordination
   - Business Process Analysis
 
-mission:
-  Deliver reliable technology solutions that create measurable business value.
 ```
 
 ---
@@ -97,26 +92,6 @@ Focused on growing into a Technical Project Management role while leveraging str
 ![POS](https://img.shields.io/badge/POS_Systems-6C757D?style=for-the-badge)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-# 📈 Career Roadmap
-
-```text
-Technical Support Executive
-            │
-            ▼
-Technical Project Coordinator
-            │
-            ▼
-Associate Project Manager
-            │
-            ▼
-Technical Project Manager
-            │
-            ▼
-Technology Program Manager
-```
 
 ---
 
